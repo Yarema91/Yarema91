@@ -58,7 +58,7 @@ Take the next step towards your success and personal development within my commu
   <a href="https://www.linkedin.com/in/yarema-ostrovskiy/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://discord.gg/your_discord_invite">
+  <a href="https://discord.gg/yaremamentor">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </footer>
