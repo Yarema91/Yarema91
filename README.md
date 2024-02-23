@@ -1,22 +1,70 @@
-- 👋 Hi, I’m @Yarema91
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Yarema
 
-💻 Tech Stack:
-<p>
-<img src="https://camo.githubusercontent.com/fff2f18c990d0a0f8c854f1e83e4fabcff73f46999a405e4c5dee0b8d12cd1b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d3631444146422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d666666" >
-<img src="https://camo.githubusercontent.com/9bb2580411576db130fee2e51a0d2f6187563d00eff4ff80b5aba8b97de5fbd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d3736344142432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d666666">
-<img src="https://camo.githubusercontent.com/94c215d7f2c57e13c70c13b55ce983dc9e241e6fe0a53348e9f07a8d124bbbb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d4637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666" >
-</p>
+💻 **Tech Stack:**
 
-🛠 Tools:
+🛠 **Tools:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p>
-<img src="https://camo.githubusercontent.com/bf0761c1a1506ba87858ea271ea71b8c46a60f95301a9684a5562f4a2ae126b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f767320636f64652d3030374143432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666">
-  <img src="https://camo.githubusercontent.com/b00dbca05937d3de2f9e39567dd955faedd9be2ed6941d610a8fbb4f4f4a76f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d666666"
-</p>
+📊 **GitHub Stats:**
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarema91&theme=light" alt="Top Languages" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yarema91&theme=default" alt="GitHub Stats" width="45%">
+</div>
+
+<div align="center">
+  <h2>🚀 Welcome to Our Mentorship Program 🚀</h2>
+  <p><i>Unlock Your Potential with Personalized Guidance</i></p>
+</div>
+
+---
+
+🚀 **Welcome to Our Mentorship Program**
+
+Unlock your potential with personalized guidance from experienced professionals in our mentorship program. Here's what you can expect:
+
+- **Qualified Mentors:** Get one-on-one guidance from qualified and experienced mentors.
+- **Individual Focus:** Tailored sessions to address your specific questions and challenges.
+- **Skill Development:** Receive constructive feedback and recommendations for growth.
+- **Networking:** Expand your professional network through connections with mentors and peers.
+- **Support and Motivation:** Stay motivated and track progress with ongoing support from mentors.
+
+Take the next step towards your success and personal development within my community.
+---
+
+<div align="center">
+  <a href="https://t.me/mentoring_frontend">
+    <img src="https://img.shields.io/badge/Join%20our%20Telegram%20channel-0088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div>
+
+---
+
+
+<footer align="center" style="margin-top: 20px; padding: 20px; background-color: #e6f7ff;">
+  📬 **Reach me out!**
+  <a href="mailto:yaremaphoto@gmail.com" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://t.me/yarema_ost" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.linkedin.com/in/yarema-ostrovskiy/" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.gg/your_discord_invite">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</footer>
+
+
                
 
 
