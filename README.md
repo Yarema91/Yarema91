@@ -1,4 +1,4 @@
-👋 Hi, I’m Yarema
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Yarema91&txt=A%20full%20stack%20software%20engineer"></p>
 
 💻 **Tech Stack:**
 
@@ -14,8 +14,8 @@
 
 📊 **GitHub Stats:**
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarema91&theme=light" alt="Top Languages" width="45%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yarema91&theme=default" alt="GitHub Stats" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarema91&theme=light" alt="Top Languages" width="23%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yarema91&theme=default" alt="GitHub Stats" width="76%">
 </div>
 
 <div align="center">
@@ -46,9 +46,10 @@ Take the next step towards your success and personal development within my commu
 
 ---
 
-
 <footer align="center" style="margin-top: 20px; padding: 20px; background-color: #e6f7ff;">
-  📬 **Reach me out!**
+  📬 Reach me out!
+    <br/>
+    <br/>
   <a href="mailto:yaremaphoto@gmail.com" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
