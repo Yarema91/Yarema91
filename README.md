@@ -1,4 +1,4 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Yarema91&txt=A%20full%20stack%20software%20engineer"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Yarema91&txt=A%20full%20stack%20software%20engineer&theme=light"></p>
 
 💻 **Tech Stack:**
 
@@ -46,7 +46,7 @@ Take the next step towards your success and personal development within my commu
 
 ---
 
-<footer align="center" style="margin-top: 20px; padding: 20px; background-color: #e6f7ff;">
+<footer align="center" style="margin-top: 20px; padding: 20px; background-color: #e6f7ff; display: flex; justify-content: space-between;">
   📬 Reach me out!
     <br/>
     <br/>
