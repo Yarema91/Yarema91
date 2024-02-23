@@ -18,10 +18,16 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yarema91&theme=default" alt="GitHub Stats" width="76%">
 </div>
 
+
+<a href="https://drive.google.com/file/d/1LK89VDb5J-Y3nhmXbw7wxasZKSN9Xw-m/view?usp=sharing" target="_blank"><button style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; font-size: 16px; margin: 4px 2px; cursor: pointer;">Show my CV</button></a>
+
 <div align="center">
   <h2>🚀 Welcome to Our Mentorship Program 🚀</h2>
   <p><i>Unlock Your Potential with Personalized Guidance</i></p>
 </div>
+
+
+
 
 ---
 
